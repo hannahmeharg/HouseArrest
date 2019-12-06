@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HouseArrest</string>
+    <string name="task_title_hint">Enter title for the task.</string>
+    <string name="task_title_label">Task</string>
+    <string
+        name="task_details_label">Details</string>
+    <string name="task_solved_label">Solved</string>
+    <string name="date_picker_title">Date reported:</string>
+    <string name="new_task">New Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d tasks</string>
+    <string name="no_tasks_on_list">There are no crimes</string>
+</resources>
